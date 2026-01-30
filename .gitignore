@@ -1,0 +1,7 @@
+node_modules/
+.env
+backend/quiz.db
+backend/quiz.db-journal
+frontend/dist/
+.DS_Store
+*.log
